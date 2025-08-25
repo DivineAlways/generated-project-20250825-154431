@@ -1,0 +1,50 @@
+{
+  "courseInfo": {
+    "title": "Spicy AI: The Uncensored Creator Course",
+    "subtitle": "Stop making boring content. Learn to leverage provocative AI to build a die-hard audience and monetize your creativity.",
+    "cta_text": "Join the Waitlist"
+  },
+  "modules": [
+    {
+      "id": "mod1",
+      "title": "Module 1: The AI Ideation Engine",
+      "description": "Generate endless, viral-worthy content ideas that break the mold. We'll teach you the art of prompt engineering for spicy topics.",
+      "icon": "💡"
+    },
+    {
+      "id": "mod2",
+      "title": "Module 2: Automated Scripting & Voice",
+      "description": "Go from idea to full script in minutes. Master AI voice cloning and text-to-speech that doesn't sound like a robot.",
+      "icon": "🎙️"
+    },
+    {
+      "id": "mod3",
+      "title": "Module 3: Visuals that Pop",
+      "description": "Create stunning, attention-grabbing visuals, thumbnails, and short-form videos with AI image and video generators.",
+      "icon": "🖼️"
+    },
+    {
+      "id": "mod4",
+      "title": "Module 4: The Monetization Machine",
+      "description": "Learn the strategies to turn your AI-powered content into a reliable income stream, from sponsorships to digital products.",
+      "icon": "💰"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "This course completely changed my workflow. I'm creating twice the content in half the time, and my engagement has skyrocketed. It's a game-changer.",
+      "name": "Alex 'ViralVortex' Chen",
+      "platform": "TikTok Creator, 2M+ Followers"
+    },
+    {
+      "quote": "I was skeptical about AI feeling authentic. 'Spicy AI' showed me how to use it as a tool to amplify my own voice, not replace it. My subscribers love the new direction.",
+      "name": "Jenna Riley",
+      "platform": "YouTube Commentator, 500k+ Subs"
+    },
+    {
+      "quote": "The monetization module alone was worth the price. I launched a digital product based on the course's framework and made back my investment in a week.",
+      "name": "Marco Diaz",
+      "platform": "Instagram & Newsletter Creator"
+    }
+  ]
+}
